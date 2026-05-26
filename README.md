@@ -4,20 +4,20 @@ Aplicación de consola en Python que permite consultar en tiempo real el **índi
 
 ---
 
-## 📸 Capturas
+## Capturas
 
 ### Índice UV por Ciudad
-![Gráfico UV](graficas/grafico_uv.png)
+![Gráfico UV](Grafica/grafico_uv.png)
 
 ### Nivel de Radiación Solar
-![Gráfico Radiación](graficas/grafico_radiacion.png)
+![Gráfico Radiación](Grafica/grafico_radiacion.png)
 
 ### Capa de Ozono
-![Gráfico Ozono](graficas/grafico_ozono.png)
+![Gráfico Ozono](Grafica/grafico_ozono.png)
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - 🔍 **Búsqueda por ciudad** — Geolocalización automática usando `geopy`
 - ☀️ **Índice UV en tiempo real** — Consulta a la API de OpenUV
